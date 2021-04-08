@@ -1,0 +1,43 @@
+qt-fsarchiver (0.8.5.18~0ubuntu1hamonikr6) public; urgency=medium
+
+  * Release for HamoniKR 5.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Thu, 08 Apr 2021 19:12:14 +0900
+
+qt-fsarchiver (0.8.5.18~0ubuntu1hamonikr5) entjin; urgency=medium
+
+  * Update debian/qt-fsarchiver/usr/share/applications/qt-fsarchiver.desktop
+   - Add Category as System
+
+ -- HamoniKR <pkg@hamonikr.org>  Mon, 15 Mar 2021 17:57:51 +0900
+
+qt-fsarchiver (0.8.5.18~0ubuntu1hamonikr4) entjin; urgency=medium
+
+  * Release for HamoniKR Server 2.0
+
+ -- HamoniKR <pkg@hamonikr.org>  Tue, 09 Mar 2021 15:52:27 +0900
+
+qt-fsarchiver (0.8.5.18~0ubuntu1hamonikr3) jin; urgency=medium
+
+  * Update translations/qt-fsarchiver_ko.ts
+   - Fixed wrong Korean Translation  
+
+ -- HamoniKR <pkg@hamonikr.org>  Wed, 04 Nov 2020 09:16:50 +0900
+
+qt-fsarchiver (0.8.5.18~0ubuntu1hamonikr2) jin; urgency=medium
+
+  * rebuild for HamoniKR 4.0
+  * Changed Korean Translation  
+
+ -- HamoniKR <pkg@hamonikr.org>  Sat, 10 Oct 2020 18:47:35 +0900
+
+qt-fsarchiver (0.8.5.18~0ubuntu1hamonikr1) bionic; urgency=medium
+
+  * build for HamoniKR OS
+  * Changed Korean Translation  
+
+ -- Kevin Kim <root@hamonikr.org>  Wed, 30 Sep 2020 10:55:17 +0900
+
+
+
+
